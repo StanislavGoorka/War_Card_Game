@@ -1,0 +1,6 @@
+2024/09/30-13:59:40.648 48f0 Creating DB D:/UnrealProjects/War_Card_Game/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/09/30-13:59:40.958 48f0 Reusing MANIFEST D:/UnrealProjects/War_Card_Game/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/30-14:01:08.936 804 Level-0 table #5: started
+2024/09/30-14:01:09.025 804 Level-0 table #5: 1167 bytes OK
+2024/09/30-14:01:09.030 804 Delete type=0 #3
+2024/09/30-14:01:09.035 804 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
